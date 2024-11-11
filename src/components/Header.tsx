@@ -22,8 +22,8 @@ function Header(){
                 </li>
             </ul>
         </div>
-
      </div>
+      
     )
 }
 export default Header
